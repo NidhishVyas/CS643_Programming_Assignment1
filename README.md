@@ -1,4 +1,4 @@
-# AWS EC2 Java Project - Object and Text Detection
+# CS643 Programming Assignment 1 - nv373
 
 This project demonstrates how to set up and run object and text detection Java programs on AWS EC2 instances. It covers configuring AWS credentials, launching EC2 instances, setting up the necessary environment, and executing Java applications for object and text detection.
 
